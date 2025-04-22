@@ -16,7 +16,7 @@ I’m an aspiring Data Technician/Analysis currently wrapping up a **Data Skills
 
 This workbook showcases my SQL learning journey, covering both theory and hands-on tasks using the `world_db` dataset.
 
-### 📂 Summary
+#### 📂 Summary
 
 - Covers relational database concepts, key relationships, and SQL JOIN types  
 - Includes practical queries (e.g. filtering, sorting, aggregations, and pattern matching)  
