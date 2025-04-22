@@ -20,9 +20,8 @@ This workbook showcases my SQL learning journey, covering both theory and hands-
 
 - Covers relational database concepts, key relationships, and SQL JOIN types  
 - Includes practical queries (e.g. filtering, sorting, aggregations, and pattern matching)  
-- Features real-world SQL exercises using the `world_db` sample database  
+- Features real-world SQL exercises using the `world_db` sample database and use of MySQL Workbench
 - Culminates in a final project designing a retail database with schema and SQL scripts  
-- Demonstrates use of MySQL Workbench and SQL best practices for business use  
 
 ### 🌿 Skills 
 <p align="left">
