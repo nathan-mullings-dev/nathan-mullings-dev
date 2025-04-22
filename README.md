@@ -11,6 +11,20 @@ I’m an aspiring Data Technician/Analysis currently wrapping up a **Data Skills
 *   ✉️  You can contact me at [here.](mailto:iamnathanm@gmail.com)
 *   🤝  I'm open to collaborating on data-driven projects, especially those in the Charity, Nonprofit, Government, Healthcare (NHS) and Education sectors.
 
+### Recent Projects
+### 📘 Data Technician Workbook – SQL  
+*Just IT's Data Skills Bootcamp*
+
+This workbook showcases my SQL learning journey, covering both theory and hands-on tasks using the `world_db` dataset.
+
+## 📂 Summary
+
+- Covers relational database concepts, key relationships, and SQL JOIN types  
+- Includes practical queries (e.g. filtering, sorting, aggregations, and pattern matching)  
+- Features real-world SQL exercises using the `world_db` sample database  
+- Culminates in a final project designing a retail database with schema and SQL scripts  
+- Demonstrates use of MySQL Workbench and SQL best practices for business use  
+
 ### 🌿 Skills 
 <p align="left">
   <a href="" target="_blank" rel="noreferrer"><img src="https://github.com/nathan-mullings-dev/portfolio_profile/blob/main/images/mysql.svg" width="36" height="36" alt="MySQL" /></a>
