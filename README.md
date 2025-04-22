@@ -12,12 +12,11 @@ I’m an aspiring Data Technician/Analysis currently wrapping up a **Data Skills
 *   🤝  I'm open to collaborating on data-driven projects, especially those in the Charity, Nonprofit, Government, Healthcare (NHS) and Education sectors.
 
 ### Recent Projects
-### 📘 Data Technician Workbook – SQL  
-*Just IT's Data Skills Bootcamp*
+### 📘 Data Technician Workbook - SQL | Just IT's Data Skills Bootcamp
 
 This workbook showcases my SQL learning journey, covering both theory and hands-on tasks using the `world_db` dataset.
 
-## 📂 Summary
+### 📂 Summary
 
 - Covers relational database concepts, key relationships, and SQL JOIN types  
 - Includes practical queries (e.g. filtering, sorting, aggregations, and pattern matching)  
